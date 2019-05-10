@@ -13,11 +13,12 @@ You can save any file of the workspace to **Google Drive**, **Dropbox** or **Git
 
 <html><b>test</b></html>
 
+To add a pic, add the pic to the repo and use the code below to link to it:
 
 ![pic](https://github.com/hazzabee/hello-world/blob/master/Amber-Run.jpeg?raw=true "This is the pic")
 
 
-blahblahblah
+To do a code block, you need to add three of these ''' before and after the code:
 
 ```
 function test() {
