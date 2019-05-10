@@ -18,3 +18,9 @@ You can save any file of the workspace to **Google Drive**, **Dropbox** or **Git
 
 
 blahblahblah
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
