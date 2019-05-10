@@ -1,15 +1,14 @@
-# hello-world
-My first repo!
-I am a technical writer and I love GitHub.
+# Welcome
+This is my first repo!
+
 ![pic](https://github.com/hazzabee/hello-world/blob/master/Amber-Run.jpeg "piccc")
 ![pic](https://github.com/hazzabee/hello-world/blob/master/Amber-Run.jpeg?raw=true "This is the pic")
-
-The file synchronization will keep one file of the workspace synced with one or multiple files in **Google Drive**, **Dropbox** or **GitHub**.
-	> Before starting to sync files, you must link an account in the **Synchronize** sub-menu.
 
 ## Who am I?
 
 I'm a technical writer. I have worked for **Barclays** and **Commonwealth Bank**. Now I work for **Ocado Technology**.
+
+> Before starting to sync files, you must link an account in the **Synchronize** sub-menu.
 
 ## Save a file
 
