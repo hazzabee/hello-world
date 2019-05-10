@@ -13,3 +13,5 @@ I'm a technical writer. I have worked for **Barclays** and **Commonwealth Bank**
 ## Save a file
 
 You can save any file of the workspace to **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Save on**. Even if a file in the workspace is already synced, you can save it to another location. StackEdit can sync one file with multiple locations and accounts.
+
+<html><b>face</b></html>
