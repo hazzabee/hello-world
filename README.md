@@ -5,7 +5,7 @@ This is my first repo!
 
 I'm a technical writer. I have worked for **Barclays** and **Commonwealth Bank**. Now I work for **Ocado Technology**.
 
-> Before starting to sync files, you must link an account in the **Synchronize** sub-menu.
+> I also love creative writing. But I'll let you read about that elsewhere.
 
 ## Save a file
 
